@@ -1,4 +1,4 @@
-# Cloud Engineer Guardrail Challenge: SQS Security Compliance
+### Cloud Engineer Guardrail Challenge: SQS Security Compliance
 
 ## Overview
 
